@@ -1,0 +1,1 @@
+This portfolio website is built using pure HTML, with optional CSS and JavaScript for styling and interactivity. The files are organized simply, with each HTML file representing a different section of the site (e.g., Home, About, Projects, Contact). All assets like images and stylesheets are placed in separate folders for clarity and easy maintenance.
